@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3499065431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95e60f4d91a1d14e1d22d65bbe9ffddb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Emoji/0.png
+Dependencies: []

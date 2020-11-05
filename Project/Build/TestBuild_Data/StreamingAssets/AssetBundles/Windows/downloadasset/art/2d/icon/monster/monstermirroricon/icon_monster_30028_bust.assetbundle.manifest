@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2969425152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9a08e39e7e12e5c08fd1113ce40a37f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Monster/MonsterMirrorIcon/icon_monster_30028_bust.png
+Dependencies: []

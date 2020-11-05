@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2654266066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3259297ae9ce6b03f07173c7b4ee584
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Role/Teammate/Equip/pic_l_pub40.png
+Dependencies: []

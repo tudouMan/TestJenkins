@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 153133741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b813aff16f551e495fe65284d562ec21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Role/Teammate/TeammateIcon/Layer settlementSet  painting/teammate4.png
+Dependencies: []

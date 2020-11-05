@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2357333408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44a9101f328e5036f82dcc892a54e1e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Role/Teammate/TeammateIcon/Set painting communication/teammate4.png
+Dependencies: []

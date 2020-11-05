@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3155277708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c2cfa6fb779672bf11fe9a9e583e54a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Cursor/Crisismode_mouse3_2.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1369261815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ad39b3d25c10c96545bb8aac894edfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Prop/Crisismode_reward_icon4.png
+Dependencies: []

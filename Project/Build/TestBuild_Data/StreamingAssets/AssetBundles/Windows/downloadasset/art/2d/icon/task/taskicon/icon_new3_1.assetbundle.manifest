@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3084833558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0890f12244c8148c0da944ed6009e99b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Task/TaskIcon/icon_new3_1.png
+Dependencies: []

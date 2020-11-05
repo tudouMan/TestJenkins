@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2462963690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b705345e80def99b3a93faa03012d297
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Battle/FloorEffectIcon/icon_floorect_test1.png
+Dependencies: []

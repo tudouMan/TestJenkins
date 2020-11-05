@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 621182236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c449a5261a58d6c9f710516d06f6a245
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Monster/MonsterIcon/monster_yb_1_infight.png
+Dependencies: []

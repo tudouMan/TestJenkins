@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1857262209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76f49f0a87a4c9078e0db651038de995
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Tip/A9II.png
+Dependencies: []

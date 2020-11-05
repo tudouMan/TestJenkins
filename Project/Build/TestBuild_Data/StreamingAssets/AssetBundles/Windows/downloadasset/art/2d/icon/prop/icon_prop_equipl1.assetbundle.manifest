@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1071773596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 706d38e4651cd75022fda6102f81e869
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Prop/icon_prop_equipL1.png
+Dependencies: []

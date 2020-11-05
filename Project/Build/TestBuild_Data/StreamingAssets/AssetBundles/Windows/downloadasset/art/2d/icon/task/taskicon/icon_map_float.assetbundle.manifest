@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1278221319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4da43ad874b989fe1ecc0ca3e6d85fe9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Task/TaskIcon/icon_map_float.png
+Dependencies: []

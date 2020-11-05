@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 449495399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cf5c6ee6adf7be091b59b16f2c6f501
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Role/Teammate/TeammateIcon/RoleSystem shadow/teammate2.png
+Dependencies: []

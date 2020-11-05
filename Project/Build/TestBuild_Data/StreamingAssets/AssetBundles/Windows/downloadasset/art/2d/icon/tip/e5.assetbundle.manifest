@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2950211682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 028127e6c87602b773e5c49b1ff4b07d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoadAsset/Art/2D/Icon/Tip/E5.png
+Dependencies: []
