@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Root>
-  <AssetBundle>
-
-    <Item Name="2D图标" Tag="Sprite" IsFolder="True" IsFirstData="True">
-      <Path Value="DownLoadAsset\Art\2D\Icon" />
-    </Item>
-  </AssetBundle>
-</Root>

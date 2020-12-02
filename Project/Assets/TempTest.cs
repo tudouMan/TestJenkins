@@ -7,13 +7,13 @@ public class TempTest : MonoBehaviour
 {
     public Image m_Image;
 
-    private void OnGUI()
+    private void Update()
     {
-        if(GUI.Button(new Rect(100, 100, 100, 100), "get"))
+        m_Image.transform.localScale = new Vector3(1, UnityEngine.Random.Range(0,2), 1);
+
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            var bundle = AssetBundle.LoadFromFile(Application.streamingAssetsPath + "/AssetBundles/Windows/downloadasset/art/2d/icon/achievement/a011.assetbundle");
-            m_Image.sprite = bundle.LoadAsset<Sprite>("a011");
+            Application.Quit();
         }
     }
-
 }
